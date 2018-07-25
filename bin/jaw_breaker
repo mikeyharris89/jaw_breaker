@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "jaw_breaker"
+
+jw = JawBreaker::Instruct.new
